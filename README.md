@@ -4,7 +4,7 @@ This repository includes multiple machine learning tasks focused on data analysi
 
 ---
 
-## ✅ Task 1: Iris Dataset Analysis
+## Task 1: Iris Dataset Analysis
 
 ### **Objective**
 Analyze the Iris dataset to understand the relationship between flower features and species types.
